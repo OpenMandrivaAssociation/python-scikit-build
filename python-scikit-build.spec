@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/scikit-build/
 License:	MIT
 Group:		Development/Python
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:	python%{pyver}dist(setuptools-scm)
 BuildArch:	noarch
 
 %description
