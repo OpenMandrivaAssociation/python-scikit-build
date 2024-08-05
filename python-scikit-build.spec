@@ -10,6 +10,7 @@ BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(setuptools-scm)
 BuildRequires:	python%{pyver}dist(hatchling)
 BuildRequires:	python%{pyver}dist(hatch-fancy-pypi-readme)
+BuildRequires:	python%{pyver}dist(hatch-vcs)
 BuildArch:	noarch
 
 %description
