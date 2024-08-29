@@ -1,5 +1,5 @@
 Name:		python-scikit-build
-Version:	0.18.0
+Version:	0.18.1
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/s/scikit-build/scikit_build-%{version}.tar.gz
 Summary:	Improved build system generator for Python C/C++/Fortran/Cython extensions
